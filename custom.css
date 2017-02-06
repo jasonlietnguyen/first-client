@@ -38,6 +38,11 @@
 	padding: 10px;
 	background-color: white;
 }
+.navbar .navbar-nav {
+    display: inline-block;
+    float: none;
+    text-align: center;
+}
 
 /*Landing*/
 .landing{
